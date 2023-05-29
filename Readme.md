@@ -1,0 +1,1 @@
+### Historica data about precipitations and temperature in Emilia Romagna 
