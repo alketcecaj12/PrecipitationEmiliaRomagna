@@ -3,7 +3,7 @@
 
 - The dataset (Eraclito61)start in 1961 up til now. 
 
-- Time series format 
+- Time series format with daily update
 
 - Link to <a href = "https://dati.arpae.it/dataset/erg5-eraclito"> Eraclito 61</a>
 
